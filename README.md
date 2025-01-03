@@ -23,7 +23,7 @@ Este projeto é uma galeria de fotos interativa, que permite buscar imagens pelo
 2. **Navegue até o diretório do projeto**:
 
    ```bash
-   cd galeria-de-fotos
+   cd projeto-de-estagio-puc
    ```
 
 3. **Abra o arquivo `index.html` em seu navegador**:
